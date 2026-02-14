@@ -12,15 +12,40 @@
 - 📫 Reach me at: anandharsh2916@gmail.com
 
 ## 🛠 Tech Stack
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Autodesk](https://img.shields.io/badge/Autodesk-red?style=for-the-badge&logo=autodesk)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-orange?style=for-the-badge&logo=autodesk)
-![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+## 🚀 Tech Stack & Tools
 
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
+</p>
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+</p>
+
+### 🔌 Embedded Systems
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino" />
+</p>
+
+### 🎨 Design & CAD
+<p align="left">
+  <img src="https://img.shields.io/badge/Autodesk-FF0000?style=for-the-badge&logo=autodesk" />
+  <img src="https://img.shields.io/badge/Fusion_360-F37021?style=for-the-badge&logo=autodesk" />
+</p>
+
+### 📊 Data & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi" />
+</p>
+
+### 🔎 API Development & Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+</p>
+
+### ☁ Cloud Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws" />
+</p>
