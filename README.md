@@ -25,6 +25,5 @@
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-orange?style=for-the-badge&logo=autodesk)
 ![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-<p align="left">
-  <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws" />
-</p>
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+
